@@ -5,4 +5,4 @@ This is a gag idea that I'm trying to get to work for fun. I think the current X
 
 Need to debug some more, but I wanted to get some more of the fun ideas I have up publicly. 
 
-![alt text]([http://url/to/img.png](https://lpws.pro/wp-content/uploads/opentowork-linkedin-1280x720.png))
+![alt text]([https://github.com/[MayankSingamreddy]/[TwitterOpenToWork]/blob/[main]/image.jpg?raw=true](https://github.com/MayankSingamreddy/TwitterOpenToWork/blob/main/readmeimage.png))
