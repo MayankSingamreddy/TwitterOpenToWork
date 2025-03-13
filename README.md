@@ -4,3 +4,5 @@ Essentially the app is meant to allow a user to sign in, it will automatically p
 This is a gag idea that I'm trying to get to work for fun. I think the current X api is recognizing me as a bad actor. 
 
 Need to debug some more, but I wanted to get some more of the fun ideas I have up publicly. 
+
+https://lpws.pro/wp-content/uploads/opentowork-linkedin-1280x720.png
