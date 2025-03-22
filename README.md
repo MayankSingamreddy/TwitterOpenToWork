@@ -1,4 +1,4 @@
-# TwitterOpenToWork
+# TwitterOpenToWork (In Backlog)
 Essentially the app is meant to allow a user to sign in, it will automatically pull their profile picture. Then it will apply the LinkedIn "OpenToWork", and upload the new profile picture automatically.
 
 This is a gag idea that I'm trying to get to work for fun. I think the current X api is recognizing me as a bad actor. 
